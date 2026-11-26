@@ -1,0 +1,1 @@
+Write the funniest lost-sock status update, a single line of at most 120 characters in the voice of a lost sock that ended up somewhere it should not be, as a deterministic Python program that writes exactly that line to /output/entry.txt.
